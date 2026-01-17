@@ -46,3 +46,7 @@ Configured Redshift Serverless by creating the required namespace and workgroup.
 Designed and created Redshift tables optimized for analytical workloads.
 <img width="1918" height="871" alt="EMR project(8)" src="https://github.com/user-attachments/assets/663f7312-8aa7-4ee9-9e48-054289b2c758" />
 
+
+# Step 10: Data Loading into Redshift via Spark Integration
+Loaded transformed data from S3 into Amazon Redshift using Spark JDBC integration.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e624f8e6-6348-4264-b096-8499c60c44e6" />
