@@ -5,5 +5,8 @@ Local System → S3 → EMR (Spark) → S3(Transformed data) → Redshift Server
 # Step 1: EMR Cluster Creation
 <img width="1893" height="807" alt="EMR project(1)" src="https://github.com/user-attachments/assets/a091d2df-3176-4fa0-9538-3400732a9eda" />
 
+
 # Step 2: EMR Remote Development & Cluster Access Configuration
 Configured secure remote access to the EMR cluster for Spark application development and execution.
+<img width="1918" height="987" alt="EMR project(2)" src="https://github.com/user-attachments/assets/afd68a96-3369-4d8e-9237-96aa57c3386f" />
+
