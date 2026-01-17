@@ -10,3 +10,10 @@ Local System → S3 → EMR (Spark) → S3(Transformed data) → Redshift Server
 Configured secure remote access to the EMR cluster for Spark application development and execution.
 <img width="1918" height="987" alt="EMR project(2)" src="https://github.com/user-attachments/assets/afd68a96-3369-4d8e-9237-96aa57c3386f" />
 
+
+# Step 3: GitHub Archive Data Ingestion
+Downloaded GitHub Archive event data for large-scale analytical processing.
+<img width="1918" height="1017" alt="EMR project(3)" src="https://github.com/user-attachments/assets/e5e7261c-2652-48ba-a6aa-6779a4450b01" />
+
+
+
