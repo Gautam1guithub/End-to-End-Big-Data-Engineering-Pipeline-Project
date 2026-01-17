@@ -50,3 +50,8 @@ Designed and created Redshift tables optimized for analytical workloads.
 # Step 10: Data Loading into Redshift via Spark Integration
 Loaded transformed data from S3 into Amazon Redshift using Spark JDBC integration.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e624f8e6-6348-4264-b096-8499c60c44e6" />
+
+
+# Step 11: Data Quality Validation and Consistency Checks
+Validated record counts, schema alignment, and data quality within Redshift.
+<img width="1920" height="916" alt="EMR(17)" src="https://github.com/user-attachments/assets/f67d0012-d8ba-4121-8f0e-5d34be98cd4c" />
