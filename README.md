@@ -22,3 +22,9 @@ Uploaded raw datasets to Amazon S3 for durable, scalable, and cost-effective sto
 <img width="1888" height="872" alt="EMR project(4)" src="https://github.com/user-attachments/assets/bc6fd4d5-625b-41b2-8fbe-d3aa2887591f" />
 
 
+# Step 5: Distributed Data Reading with Apache Spark
+Read raw data from S3 into Spark DataFrames for distributed processing.
+
+
+# Step 6: Data Cleaning and Transformation
+Performed data cleansing, filtering, and transformations using Spark SQL and DataFrame APIs.
