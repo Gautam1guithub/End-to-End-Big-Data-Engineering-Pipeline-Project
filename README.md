@@ -19,7 +19,7 @@ Downloaded GitHub Archive event data for large-scale analytical processing.
 
 # Step 4: Raw Data Storage in Amazon S3
 Uploaded raw datasets to Amazon S3 for durable, scalable, and cost-effective storage.
-<img width="1888" height="872" alt="EMR project(4)" src="https://github.com/user-attachments/assets/bc6fd4d5-625b-41b2-8fbe-d3aa2887591f" />
+<img width="1920" height="1080" alt="EMR(13)" src="https://github.com/user-attachments/assets/3e7ea152-c494-4c86-a922-f45fb5ea2210" />
 
 
 # Step 5: Distributed Data Reading with Apache Spark
@@ -28,3 +28,12 @@ Read raw data from S3 into Spark DataFrames for distributed processing.
 
 # Step 6: Data Cleaning and Transformation
 Performed data cleansing, filtering, and transformations using Spark SQL and DataFrame APIs.
+<img width="1920" height="1080" alt="EMR(14)" src="https://github.com/user-attachments/assets/0b867bf3-926d-483b-808e-cfc149fd09c9" />
+
+
+# Step 7: Transformed Data Persistence to S3 (Staging Layer)
+Stored transformed and intermediate datasets in a temporary S3 staging location using optimized formats.
+<img width="1920" height="1080" alt="EMR(15)" src="https://github.com/user-attachments/assets/ac4fe106-f7d3-44ea-8ad6-d4eff78384df" />
+
+
+# 
