@@ -44,4 +44,5 @@ Configured Redshift Serverless by creating the required namespace and workgroup.
 
 # Step 9: Analytical Table Design and Creation in Redshift
 Designed and created Redshift tables optimized for analytical workloads.
+<img width="1918" height="871" alt="EMR project(8)" src="https://github.com/user-attachments/assets/663f7312-8aa7-4ee9-9e48-054289b2c758" />
 
