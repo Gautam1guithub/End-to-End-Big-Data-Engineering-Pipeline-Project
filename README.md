@@ -1,4 +1,5 @@
 # End-to-End-Big-Data-Engineering-Pipeline-Project
 An end-to-end big data engineering pipeline built on AWS, leveraging EMR and Apache Spark for large-scale data processing, S3 for scalable storage, and Redshift Serverless for analytics-ready data validation and querying.
+# Architecture Flow
 # Step 1: EMR Cluster Creation
 <img width="1893" height="807" alt="EMR project(1)" src="https://github.com/user-attachments/assets/a091d2df-3176-4fa0-9538-3400732a9eda" />
