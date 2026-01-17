@@ -17,5 +17,8 @@ Downloaded GitHub Archive event data for large-scale analytical processing.
 <img width="1920" height="1080" alt="EMR(12)" src="https://github.com/user-attachments/assets/04c75a7a-f1e6-4185-b0d2-da926409793b" />
 
 
+# Step 4: Raw Data Storage in Amazon S3
+Uploaded raw datasets to Amazon S3 for durable, scalable, and cost-effective storage.
+<img width="1888" height="872" alt="EMR project(4)" src="https://github.com/user-attachments/assets/bc6fd4d5-625b-41b2-8fbe-d3aa2887591f" />
 
 
