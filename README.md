@@ -34,7 +34,13 @@ Performed data cleansing, filtering, and transformations using Spark SQL and Dat
 
 # Step 7: Transformed Data Persistence to S3 (Staging Layer)
 Stored transformed and intermediate datasets in a temporary S3 staging location using optimized formats.
-<img width="1920" height="1080" alt="EMR(15)" src="https://github.com/user-attachments/assets/ac4fe106-f7d3-44ea-8ad6-d4eff78384df" />
+<img width="1920" height="925" alt="EMR(15)" src="https://github.com/user-attachments/assets/dd215d2e-8080-436a-860e-8593e74ccaf8" />
+
+
+# Step 8: Amazon Redshift Serverless Environment Setup
+Configured Redshift Serverless by creating the required namespace and workgroup.
+<img width="1888" height="851" alt="EMR project(7)" src="https://github.com/user-attachments/assets/4bf5240d-e2ba-40a2-b21a-1c43015769a3" />
 
 
 # 
+
