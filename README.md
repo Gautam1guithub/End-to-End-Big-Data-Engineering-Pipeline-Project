@@ -19,7 +19,8 @@ Downloaded GitHub Archive event data for large-scale analytical processing.
 
 # Step 4: Raw Data Storage in Amazon S3
 Uploaded raw datasets to Amazon S3 for durable, scalable, and cost-effective storage.
-<img width="1920" height="1080" alt="EMR(13)" src="https://github.com/user-attachments/assets/3e7ea152-c494-4c86-a922-f45fb5ea2210" />
+<img width="1920" height="926" alt="EMR(13)" src="https://github.com/user-attachments/assets/0c7b7093-f733-473b-af53-4f453bcc9877" />
+
 
 
 # Step 5: Distributed Data Reading with Apache Spark
